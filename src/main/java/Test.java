@@ -7,5 +7,6 @@ public class Test {
         System.out.println("hello");
         System.out.println("hello first commit");
         System.out.println("second first commit");
+        System.out.println("third first commit");
     }
 }
